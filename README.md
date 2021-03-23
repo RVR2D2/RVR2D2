@@ -13,5 +13,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-090909?style=for-the-badge&logo=webstorm)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Vadim GitHub stats](https://github-readme-stats.vercel.app/api?username=RVR2D2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
